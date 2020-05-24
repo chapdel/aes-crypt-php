@@ -2,7 +2,7 @@
 
 namespace Chapdel;
 
-class CryptJS
+class AESCrypt
 {
     /**
      * Encrypt any value
