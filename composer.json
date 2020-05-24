@@ -8,5 +8,10 @@
         "email": "chapdel.kamga2@gmail.com"
     }],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Chapdel\\CryptJS\\": "src/"
+        }
+    }
 }
