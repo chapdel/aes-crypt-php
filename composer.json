@@ -1,5 +1,5 @@
 {
-    "name": "chapdel/cryptjs",
+    "name": "chapdel/aescrypt",
     "description": "Crypt and decrypt on php for javascript client",
     "type": "library",
     "license": "MIT",
