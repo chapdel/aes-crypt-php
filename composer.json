@@ -1,6 +1,6 @@
 {
     "name": "chapdel/cryptjs",
-    "description": "Crypt and decrypt on laravel for javascript client",
+    "description": "Crypt and decrypt on php for javascript client",
     "type": "library",
     "license": "MIT",
     "authors": [{
