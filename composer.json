@@ -1,0 +1,12 @@
+{
+    "name": "chapdel/cryptjs",
+    "description": "Crypt and decrypt on laravel for javascript client",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "chapdel",
+        "email": "chapdel.kamga2@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {}
+}
