@@ -1,6 +1,6 @@
 <?php
 
-namespace Chapdel\CryptJS;
+namespace Chapdel;
 
 class CryptJS
 {
